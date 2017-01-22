@@ -1,0 +1,10 @@
+body {
+  font-family: georgia;
+  background-color: rgb(231, 226, 255);
+}
+h1 {
+  font-weight: bold;
+}
+h3 {
+  font-style: italic;
+}
